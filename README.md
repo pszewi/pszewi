@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-A B.Sc. Economics student interested in applied microeconomics, empirical industrial organization and data science. Here are (some) of my projects :)
+A M.Sc. Economics student interested in applied microeconomics, empirical industrial organization and data science. Here are (some) of my projects :)
 
 <!--
 **pszewi/pszewi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
